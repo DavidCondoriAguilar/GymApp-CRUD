@@ -2,3 +2,4 @@
 ![XASD](https://github.com/user-attachments/assets/41af8a38-9634-41e8-83b7-cd0ad4744af4)
 ![ui](https://github.com/user-attachments/assets/58c05ae8-34d5-4f43-aa3c-cc82dfd86058)
 ![bbv](https://github.com/user-attachments/assets/dc605e61-f237-4e97-be3e-13a33e640cb7)
+![delete](https://github.com/user-attachments/assets/892c6412-8f08-4949-b2c1-448d90bbd110)
